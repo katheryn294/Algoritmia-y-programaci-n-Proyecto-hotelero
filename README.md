@@ -3,11 +3,15 @@
 # PUNTO 1 Y 2: Integrantes, vinculos académicos y descripción..
 **-Katheryn Yens Martinez Perez (Encargada del codigo).** 
 
-Soy estudiante de ingenieria industrial con poca experiencia en programacion, pero tengo la capacidad de afianzar conceptos, definiciones y metodos con bastante practica.
+Soy estudiante de Ingeniería Industrial. Aunque No cuento con mucho conocimiento en programación, me esfuerzo por aprender y fortalecer mis habilidades. Como 
+encargada del código, me enfoqué en su desarrollo y funcionamiento, aplicando y fortaleciendo mis conocimientos en programación para contribuir al cumplimiento del 
+proyecto.
 
--Espacio para otros integrantes..........
+**-Santiago Parra Rodríguez (Encargado de la documentación).**
+Soy estudiante de ingeniería industrial. Aunque no tenga mucha habilidad en programación, aporto al proyecto organizando y redactando la documentación de forma clara y precisa. Sin embargo, estoy en constante aprendizaje y busco mejorar mis habilidades para contribuir de manera más integral al equipo. 
 
-
+**-Cristal Zuñiga López (Encargada de la prueba)**
+Soy estudiante de Ingeniería Industrial. Aunque no soy experta en programación, Soy muy detallista y me enfoco en probar cada función del sistema paso a paso, asegurando que los datos sean correctos y que los reportes administrativos no tengan errores. Además me esfuerzo por seguir aprendiendo. 
 
 # PUNTO 3: Nombre del proyecto y detalles.
 HOTEL CIELO AZUL  

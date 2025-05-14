@@ -1,7 +1,7 @@
 # Algoritmia-y-programaci-n-Proyecto-hotelero
 ##############################################
 # Integrantes, vinculos académicos y descripción..
--Katheryn Yens Martinez Perez-Encargada del codigo.
+**-Katheryn Yens Martinez Perez**-Encargada del codigo.
 Soy estudiante de ingenieria industrial con poca experiencia en programacion, pero tengo la capacidad de afianzar conceptos, definiciones y metodos con bastante practica.
 
 -Espacio para otros integrantes..........

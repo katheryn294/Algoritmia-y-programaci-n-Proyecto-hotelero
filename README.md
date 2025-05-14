@@ -9,8 +9,10 @@ Soy estudiante de ingenieria industrial con poca experiencia en programacion, pe
 
 
 # Nombre del proyecto y detalles
+HOTEL CIELO AZUL
+![image](https://github.com/user-attachments/assets/481b5e6b-82f0-4924-86ba-f07ed1168141)
 
-![image](https://github.com/user-attachments/assets/03e0ee68-8182-4d1e-a166-ea1ef034d900)
+
 
 
 

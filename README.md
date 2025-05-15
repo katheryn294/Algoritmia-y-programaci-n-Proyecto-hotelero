@@ -100,3 +100,6 @@ El sistema no debe:
 - Distribución estimada para cada integrante: **~10 horas cada uno**.
 
 ![Gráfico Diagrama de Gantt Profesional Multicolor (3) 1](https://github.com/user-attachments/assets/2ebaac51-1e7c-44a7-bec5-f6267e4e9161)
+
+# ACTAS.
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:84994507-a96c-4fb4-9137-2796da6b9236

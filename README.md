@@ -96,7 +96,7 @@ El sistema no debe:
 **Presupuesto (en tiempo):**
 
 - El grupo lo conformamos 3 estudiantes.
-- Tiempo total invertido: **50 horas**.
-- Equivalente al valor de una práctica profesional (1 SMLV).
-- Distribución estimada para cada integrante: **~17 horas cada uno**.
+- Tiempo total invertido: **30 horas**.
+- Distribución estimada para cada integrante: **~10 horas cada uno**.
 
+![Gráfico Diagrama de Gantt Profesional Multicolor (3) 1](https://github.com/user-attachments/assets/2ebaac51-1e7c-44a7-bec5-f6267e4e9161)

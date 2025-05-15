@@ -102,4 +102,12 @@ El sistema no debe:
 ![Gráfico Diagrama de Gantt Profesional Multicolor (3) 1](https://github.com/user-attachments/assets/2ebaac51-1e7c-44a7-bec5-f6267e4e9161)
 
 # ACTAS.
+
+**Acta de entendimiento**
 https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:84994507-a96c-4fb4-9137-2796da6b9236
+
+**Acta de colaboracion**
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:18b5bbfb-6d9b-4b93-b08c-93d639064e88
+
+**Acta de responsabilidad**
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c4b509e3-b380-4dcd-a87a-343c84e7d9c3

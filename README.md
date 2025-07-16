@@ -101,6 +101,7 @@ El sistema no debe:
 
 ![Gráfico Diagrama de Gantt Profesional Multicolor (3) 1](https://github.com/user-attachments/assets/2ebaac51-1e7c-44a7-bec5-f6267e4e9161)
 
+**#Punto 8: Plan de Versionado**
 # ACTAS.
 
 **Acta de entendimiento**

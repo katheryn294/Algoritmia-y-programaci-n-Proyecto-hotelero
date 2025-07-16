@@ -134,6 +134,7 @@ v1.0	Redacción del manual de usuario y documentación final	Día 32
 
 
 **Manual de Usuario**
+[Manual_de_Usuario.pdf](https://github.com/user-attachments/files/21246917/Manual_de_Usuario.pdf)
 
 # ACTAS.
 

@@ -106,31 +106,34 @@ Proyecto: Hotel cielo azul – Sistema de Gestión Hotelera
 
 Objetivo del plan
 
-El presente documento describe las versiones del software y su progreso en días desde el inicio del proyecto hasta su entrega final. Cada versión corresponde a un hito importante de avance funcional, pruebas o documentación.
+El proceso de desarrollo del sistema del Hotel Cielo Azul se estructuró mediante un esquema de versionado progresivo, que permitió registrar los avances técnicos relevantes, mejorar la trazabilidad del trabajo y mantener una organización clara del código y la documentación. El versionado se realizó manualmente a través del repositorio de GitHub del proyecto, donde se reflejaron los cambios importantes según las etapas del ciclo de desarrollo
 
-Tabla de versiones
 
-Versión	Descripción del avance	Día desde inicio
+El versionado se estructuró en diferentes etapas, cada una asociada a hitos específicos del desarrollo. A continuación, se describe cada versión y su contenido funcional:
 
-v0.1	Creación del repositorio en GitHub e inicialización del proyecto	Día 0
+Versión 0.1
+Se estableció la estructura inicial del proyecto, organizando las carpetas necesarias: src para el código fuente, doc para la documentación y data para los archivos de soporte. Se definieron las funciones principales y los roles del equipo.
 
-v0.2	Implementación de la funcionalidad de registro de huéspedes	Día 5
+Versión 0.2
+Se desarrolló el módulo de registro de huéspedes, incorporando validaciones estrictas en los campos obligatorios. Se utilizó pandas para almacenar los datos en un DataFrame de manera estructurada.
 
-v0.3	Desarrollo del módulo de reserva de habitaciones	Día 10
+Versión 0.3
+Se implementó el módulo de reservas, incluyendo la verificación de disponibilidad de habitaciones, el manejo de fechas de ingreso y salida, la asignación automática de habitaciones, y el cálculo del costo estimado de la estancia según el tipo de habitación.
 
-v0.4	Programación de los procesos de check-in y validación de huéspedes	Día 15
+Versión 0.4
+Se integraron los procesos de check-in y check-out. El sistema permite registrar el ingreso efectivo del huésped y, al momento de su salida, generar una factura detallada con base en la duración de la estadía y la tarifa correspondiente.
 
-v0.5	Programación de check-out, cálculo de facturación y cierre de reservas	Día 18
+Versión 0.5
+Se desarrolló el módulo de administración, que incluye acceso restringido mediante usuario y contraseña, y genera reportes clave sobre el comportamiento del sistema: huéspedes registrados, ocupación, ingresos, historial y estadísticas.
 
-v0.6	Creación del sistema de registro de logs de eventos	Día 20
+Versión 0.6
+Se incorporó el módulo de registro de eventos (log). Cada acción realizada en el sistema queda registrada en un archivo de texto, incluyendo la fecha, hora, acción realizada, duración y datos del sistema operativo y del usuario.
 
-v0.7	Desarrollo del menú principal e integración de todos los módulos	Día 25
+Versión 0.7
+Se diseñó el menú principal, que reúne todas las funcionalidades en una sola interfaz de texto. Este menú guía al usuario a través de las opciones disponibles de forma clara, ordenada y continua.
 
-v0.8	Implementación del módulo de reportes de ocupación y estadísticas del hotel	Día 28
-
-v0.9	Pruebas internas de validación y corrección de errores	Día 30
-
-v1.0	Redacción del manual de usuario y documentación final	Día 32
+Versión 1.0
+Consolidación de todas las funcionalidades y documentación. Se realizaron pruebas generales del sistema, se organizó el repositorio final y se dejó el software listo para su entrega y sustentación.
 
 
 **Manual de Usuario**

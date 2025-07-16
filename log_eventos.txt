@@ -1,0 +1,35 @@
+=== Registro de Eventos del Hotel BuenDescanso ===
+Usuario del sistema: root
+Sistema operativo: Linux
+Plataforma: Linux-6.1.123+-x86_64-with-glibc2.35
+--------------------------------------------------
+
+2025-07-16 04:42:13.849 | Salir del sistema | Duración: 0.0s
+2025-07-16 04:43:15.337 | Acceso al módulo de administración | Duración: 0.0s
+2025-07-16 04:50:29.810 | Registrar huésped | Duración: 0.0s
+2025-07-16 04:51:08.608 | Registrar huésped | Duración: 0.0s
+2025-07-16 04:51:54.892 | Registrar huésped | Duración: 0.0s
+2025-07-16 04:53:58.361 | Reservar habitación | Duración: 0.0s
+2025-07-16 04:54:33.173 | Reservar habitación | Duración: 0.0s
+2025-07-16 04:55:05.302 | Reservar habitación | Duración: 0.0s
+2025-07-16 04:56:28.188 | Acceso al módulo de administración | Duración: 0.0s
+2025-07-16 04:58:53.508 | Salir del sistema | Duración: 0.0s
+2025-07-16 05:01:09.448 | Acceso al módulo de administración | Duración: 0.0s
+2025-07-16 05:02:49.208 | Salir del sistema | Duración: 0.0s
+2025-07-16 05:06:38.301 | Registrar huésped | Duración: 0.0s
+2025-07-16 05:06:52.705 | Salir del sistema | Duración: 0.0s
+2025-07-16 05:07:12.441 | Acceso al módulo de administración | Duración: 0.0s
+2025-07-16 05:08:31.163 | Salir del sistema | Duración: 0.0s
+2025-07-16 05:09:15.555 | Registrar huésped | Duración: 0.0s
+2025-07-16 05:09:49.440 | Registrar huésped | Duración: 0.0s
+2025-07-16 05:10:49.666 | Registrar huésped | Duración: 0.0s
+2025-07-16 05:11:27.890 | Reservar habitación | Duración: 0.0s
+2025-07-16 05:11:50.123 | Reservar habitación | Duración: 0.0s
+2025-07-16 05:12:15.443 | Reservar habitación | Duración: 0.0s
+2025-07-16 05:13:10.879 | Reservar habitación | Duración: 0.0s
+2025-07-16 05:13:27.559 | Acceso al módulo de administración | Duración: 0.0s
+2025-07-16 05:14:01.253 | Salir del sistema | Duración: 0.0s
+2025-07-16 05:17:05.305 | Acceso al módulo de administración | Duración: 0.0s
+2025-07-16 05:17:24.393 | Salir del sistema | Duración: 0.0s
+2025-07-16 05:19:02.653 | Acceso al módulo de administración | Duración: 0.0s
+2025-07-16 05:19:15.024 | Salir del sistema | Duración: 0.0s

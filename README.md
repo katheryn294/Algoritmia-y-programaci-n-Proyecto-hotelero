@@ -101,43 +101,6 @@ El sistema no debe:
 
 ![Gráfico Diagrama de Gantt Profesional Multicolor (3) 1](https://github.com/user-attachments/assets/2ebaac51-1e7c-44a7-bec5-f6267e4e9161)
 
-**#Punto 8: Plan de Versionado**
-Proyecto: Hotel cielo azul – Sistema de Gestión Hotelera
-
-Objetivo del plan
-
-El proceso de desarrollo del sistema del Hotel Cielo Azul se estructuró mediante un esquema de versionado progresivo, que permitió registrar los avances técnicos relevantes, mejorar la trazabilidad del trabajo y mantener una organización clara del código y la documentación. El versionado se realizó manualmente a través del repositorio de GitHub del proyecto, donde se reflejaron los cambios importantes según las etapas del ciclo de desarrollo
-
-
-El versionado se estructuró en diferentes etapas, cada una asociada a hitos específicos del desarrollo. A continuación, se describe cada versión y su contenido funcional:
-
-Versión 0.1
-Se estableció la estructura inicial del proyecto, organizando las carpetas necesarias: src para el código fuente, doc para la documentación y data para los archivos de soporte. Se definieron las funciones principales y los roles del equipo.
-
-Versión 0.2
-Se desarrolló el módulo de registro de huéspedes, incorporando validaciones estrictas en los campos obligatorios. Se utilizó pandas para almacenar los datos en un DataFrame de manera estructurada.
-
-Versión 0.3
-Se implementó el módulo de reservas, incluyendo la verificación de disponibilidad de habitaciones, el manejo de fechas de ingreso y salida, la asignación automática de habitaciones, y el cálculo del costo estimado de la estancia según el tipo de habitación.
-
-Versión 0.4
-Se integraron los procesos de check-in y check-out. El sistema permite registrar el ingreso efectivo del huésped y, al momento de su salida, generar una factura detallada con base en la duración de la estadía y la tarifa correspondiente.
-
-Versión 0.5
-Se desarrolló el módulo de administración, que incluye acceso restringido mediante usuario y contraseña, y genera reportes clave sobre el comportamiento del sistema: huéspedes registrados, ocupación, ingresos, historial y estadísticas.
-
-Versión 0.6
-Se incorporó el módulo de registro de eventos (log). Cada acción realizada en el sistema queda registrada en un archivo de texto, incluyendo la fecha, hora, acción realizada, duración y datos del sistema operativo y del usuario.
-
-Versión 0.7
-Se diseñó el menú principal, que reúne todas las funcionalidades en una sola interfaz de texto. Este menú guía al usuario a través de las opciones disponibles de forma clara, ordenada y continua.
-
-Versión 1.0
-Consolidación de todas las funcionalidades y documentación. Se realizaron pruebas generales del sistema, se organizó el repositorio final y se dejó el software listo para su entrega y sustentación.
-
-
-**Manual de Usuario**
-[Manual_de_Usuario.pdf](https://github.com/user-attachments/files/21246917/Manual_de_Usuario.pdf)
 
 # ACTAS.
 

@@ -1,7 +1,5 @@
 # Algoritmia-y-programación-Proyecto-hotelero
 ##############################################
-**código**
-https://colab.research.google.com/drive/1vxEngbaIHqe_iajuLfkqyJIBLMPWaabz#scrollTo=HKHgsi0ivMLI
 # PUNTO 1 Y 2: Integrantes, vinculos académicos y descripción..
 **-Katheryn Yens Martinez Perez (Encargada del codigo).** 
 

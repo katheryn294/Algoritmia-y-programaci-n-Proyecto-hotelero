@@ -131,6 +131,8 @@ v0.8	Implementación del módulo de reportes de ocupación y estadísticas del h
 v0.9	Pruebas internas de validación y corrección de errores	Día 30
 
 v1.0	Redacción del manual de usuario y documentación final	Día 32
+
+
 **Manual de Usuario**
 
 # ACTAS.

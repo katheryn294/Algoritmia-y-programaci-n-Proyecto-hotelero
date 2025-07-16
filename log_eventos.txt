@@ -1,4 +1,4 @@
-=== Registro de Eventos del Hotel BuenDescanso ===
+=== Registro de Eventos del Hotel Cielo Azul===
 Usuario del sistema: root
 Sistema operativo: Linux
 Plataforma: Linux-6.1.123+-x86_64-with-glibc2.35

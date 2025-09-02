@@ -100,6 +100,37 @@ El sistema no debe:
 - Distribución estimada para cada integrante: **~10 horas cada uno**.
 
 ![Gráfico Diagrama de Gantt Profesional Multicolor (3) 1](https://github.com/user-attachments/assets/2ebaac51-1e7c-44a7-bec5-f6267e4e9161)
+**#Punto 8:Plan de Versionado**
+Objetivo del plan
+
+El presente documento describe las versiones del software y su progreso en días desde el inicio del proyecto hasta su entrega final. Cada versión corresponde a un hito importante de avance funcional, pruebas o documentación.
+
+Tabla de versiones
+
+Versión	Descripción del avance	Día desde inicio
+
+v0.1	Creación del repositorio en GitHub e inicialización del proyecto	Día 0
+
+v0.2	Implementación de la funcionalidad de registro de huéspedes	Día 5
+
+v0.3	Desarrollo del módulo de reserva de habitaciones	Día 10
+
+v0.4	Programación de los procesos de check-in y validación de huéspedes	Día 15
+
+v0.5	Programación de check-out, cálculo de facturación y cierre de reservas	Día 18
+
+v0.6	Creación del sistema de registro de logs de eventos	Día 20
+
+v0.7	Desarrollo del menú principal e integración de todos los módulos	Día 25
+
+v0.8	Implementación del módulo de reportes de ocupación y estadísticas del hotel	Día 28
+
+v0.9	Pruebas internas de validación y corrección de errores	Día 30
+
+v1.0	Redacción del manual de usuario y documentación final	Día 32
+
+v1.1	Preparación de la versión definitiva para la sustentación	Día 35
+
 
 
 # ACTAS.
